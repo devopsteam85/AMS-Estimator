@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_INTF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOINTERF>
+    <CLSNAME>ZIF_PROJECT_ESTIMATOR_ATTR</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Estimator attribute interface</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <UNICODE>X</UNICODE>
+   </VSEOINTERF>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_PROJECT_ESTIMATOR_ATTR</CLSNAME>
+     <CMPNAME>C_PROJECT_AD</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Not More Closely Defined Area, Possibly Used for Patchlevels</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_PROJECT_ESTIMATOR_ATTR</CLSNAME>
+     <CMPNAME>C_PROJECT_AMS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Not More Closely Defined Area, Possibly Used for Patchlevels</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_PROJECT_ESTIMATOR_ATTR</CLSNAME>
+     <CMPNAME>C_TEMPLATE_RLS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Character Field Length = 10</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_PROJECT_ESTIMATOR_ATTR</CLSNAME>
+     <CMPNAME>C_TEMPLATE_UPLOAD</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Character Field Length = 10</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_PROJECT_ESTIMATOR_ATTR</CLSNAME>
+     <CMPNAME>GS_PROJECT_KEY</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Project estimator tool</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_PROJECT_ESTIMATOR_ATTR</CLSNAME>
+     <CMPNAME>GT_PROJECT_INS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Project estimator tool</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

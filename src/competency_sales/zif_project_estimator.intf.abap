@@ -1,0 +1,12 @@
+interface ZIF_PROJECT_ESTIMATOR
+  public .
+
+
+  interfaces ZIF_PROJECT_ESTIMATOR_ADMIN .
+  interfaces ZIF_PROJECT_ESTIMATOR_ATTR .
+  interfaces ZIF_PROJECT_ESTIMATOR_ENGINE .
+  interfaces ZIF_PROJECT_ESTIMATOR_INPUT .
+  interfaces ZIF_PROJECT_ESTIMATOR_RESOURCE .
+  interfaces ZIF_PROJECT_ESTIMATOR_SKILL .
+  interfaces ZIF_TOOLS_ESTIMATOR_OUTPUT .
+endinterface.
