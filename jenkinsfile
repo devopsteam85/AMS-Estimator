@@ -1,0 +1,12 @@
+pipeline{
+    agent any 
+    stages{
+       
+
+        stage('SonarQube') {
+            steps {
+                bat label: '', script: 'sonar-scanner.bat -D"sonar.projectKey=SapDevOps" -D"sonar.sources=./src" -D"sonar.host.url=http://172.31.6.186:9000" -D"sonar.login=6aa43b5f1da4da375564179cd8c7c6949f64a53b"'
+            }
+         }
+    }
+}
